@@ -1,0 +1,8 @@
+{
+    "name": "jimtendo/named-entities-finder",
+    "autoload": {
+        "psr-0" : {
+            "Jimtendo\\NamedEntitiesFinder" : "src"
+        }
+    }
+}
